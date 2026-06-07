@@ -32,7 +32,7 @@ df.tail()
 # In[19]:
 
 
-df.info(297,14)
+df.info()
 
 
 # In[20]:
