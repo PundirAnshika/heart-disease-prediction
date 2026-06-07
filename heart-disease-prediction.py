@@ -14,7 +14,7 @@ import seaborn as sns
 # In[12]:
 
 
-df = pd.read_csv("C:\\Users\\Dell\\Downloads\\archive\\heart.csv\\heart_cleveland_upload.csv.csv")
+df = pd.read_csv("heart_cleveland_upload.csv.csv")
 
 
 # In[13]:
